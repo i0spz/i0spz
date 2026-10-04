@@ -1,9 +1,4 @@
-- 👋 Hi, I’m @i0spz
-- 👀 I’m interested in front-end development
-- 🌱 I’m currently learning lua & C# to make games
-- 📫 How to reach me? visit <a>https://dlist.dev/sfa7</a>
-
-<!---
-i0spz/i0spz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m Ahmed
+- 👀 I’m interested in front-end development, Cyper things.
+- 🌱 I’m currently building something massive; Stay tuned.
+- 📫 How to reach me? contact +96893933227
